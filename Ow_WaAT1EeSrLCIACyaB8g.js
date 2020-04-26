@@ -364,7 +364,7 @@ window.jwplayer=function(e){function t(t){for(var n,i,o=t[0],u=t[1],a=0,s=[];a<o
 
 
 var jwDefaults = {
-  "key": "imJ0sEoZd9DZAaHm704LT9irFCez8sfFoPjgB3luzli3S9eUmWS9oaRvgEU=",
+  "key": "29og0+O36/5HLFytlGO0ZQ/6A6vw2o2XlH6mnBK4PijbiPkK9akKaf4jqhc=",
   "ph": 1,
   "pid": "DEFAULT0"
 };
